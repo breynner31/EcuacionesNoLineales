@@ -102,14 +102,13 @@ Ingrese el número máximo de iteraciones: 50
 ```
 1	x**3 - 4*x + 1	        [0, 1]	                       0.5	
 
-2	cos(x) - x	            [0, 1]	                       0.5
+2	cos(x) - x	        [0, 1]	                       0.5
 
-
-3	x**2 - 2	            [1, 2]	                       1.5	
+3	x**2 - 2	        [1, 2]	                       1.5	
 
 4	x**3 - x - 2	        [1, 2]	                       1.5
 
-5	exp(x) - 2	            [0, 1]                         0.5	
+5	exp(x) - 2	        [0, 1]                         0.5	
 
 6	x**3 + x - 1	        [0, 1]                         0.7	
 
@@ -117,9 +116,9 @@ Ingrese el número máximo de iteraciones: 50
 
 8	x*sin(x) - 1	        [1, 2]                         1.5	
 
-9	x**4 - 16	            [1, 3]	                       2	
+9	x**4 - 16	        [1, 3]	                       2	
 
-10	tan(x) - x	            [4.4, 4.7]	                   4.5
+10	tan(x) - x	        [4.4, 4.7]	               4.5
 
 ```
 ## 📘 ¿Qué es la tolerancia?
