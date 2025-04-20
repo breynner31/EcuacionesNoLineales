@@ -1,6 +1,5 @@
-from pathlib import Path
 
-readme_content = """# 🧮 Resolución de Ecuaciones No Lineales con Bisección y Newton-Raphson
+# 🧮 Resolución de Ecuaciones No Lineales con Bisección y Newton-Raphson
 
 Este es un programa desarrollado en **Python puro** que permite resolver **ecuaciones no lineales** utilizando dos métodos numéricos:
 
@@ -98,7 +97,7 @@ Ingrese el número máximo de iteraciones: 50
 
 ## 📊 Tabla de Ejercicios Funcionales para Resolver
 
-#	Ecuación f(x)	Intervalo [a, b] (Bisección)	x0 (Newton-Raphson)	
+	Ecuación f(x)	  Intervalo [a, b] (Bisección)	    x0 (Newton-Raphson)	
 
 ```
 1	x**3 - 4*x + 1	        [0, 1]	                       0.5	
@@ -135,6 +134,19 @@ Se imprimirá en consola los resultados de ambos métodos.
 Se resaltarán errores o advertencias si ocurren.
 
 Se abrirá una gráfica comparativa que muestra la convergencia (error vs iteraciones).
+
+## 📌 SALIDA DE CONSOLA 1.
+
+![](assets/image1.png)
+
+## 📌 SALIDA DE CONSOLA 2.
+
+![](assets/image2.png)
+
+## 📌 SALIDA DE CONSOLA 3.
+
+![](assets/image3.png)
+
 
 ## 🧠 ¿Cómo fue desarrollado?
 Lenguaje: Python puro
